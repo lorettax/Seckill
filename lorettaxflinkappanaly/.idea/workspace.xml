@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lorettaxflinkappin:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f8cda05-df42-4347-8763-8f5baf1ecde0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../flink-train-scala/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootstudy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootstudy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootstudy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flink-train-scala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flink-train-scala/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/lorettaxflinkappin/target/" />
+    <ignored path="$PROJECT_DIR$/lorettaxflinkcommon/target/" />
+    <ignored path="$PROJECT_DIR$/lorettaxMessageApi/target/" />
+    <ignored path="$PROJECT_DIR$/lorettaxAnalyviewSrv/target/" />
+    <ignored path="$PROJECT_DIR$/lorettaxanalysearchSrv/target/" />
+    <ignored path="$PROJECT_DIR$/lorettaxflinkanalysrv/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>youfan</find>
+      <find>lorettax</find>
+      <find>startup</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>lorettax</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\18215\Desktop\GitHub\lorettaxflinkappanaly\lorettaxMessageApi\src\main\java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/NetworkUser.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/UserNetworkMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/UserNetworkSink.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/UserNetworkReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/ActivitieUser.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/ActivitieUserMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/ActivitieUserReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/ActivitieUserSink.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/NetWorkAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/NewUserAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/ActiviteUserAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/UsageInfo.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkcommon/src/main/java/com/lorettax/login/UsageInfoLog.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/UsageInfoMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/UsageInfoReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/UsageInfoSink.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/UserUsageInfoTask.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/VersionInfoAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/VersionUser.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/NewUserReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/VersionUserReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/VersionUserSink.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/StartupAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/ChannelUser.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/ChannelUserAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/ChannelUserMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/ChannelUserReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/ChannelUserSink.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/VersionUserAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/test/DateTimeTools.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/UserFrequencyMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/UserFrequencyTask.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/BrandUser.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/BrandMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/BrandReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/BrandSink.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/BrandAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/UserFrequencyInfo.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/UserbehaviorInfo.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/VersionUserMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/UserbehaviorMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/UserBehaviorReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/UserbehaviorSink.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/UserbehaviorAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/ErrorInfo.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/task/ErrorInfoAnaly.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/ErrorMap.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/StartupReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/ErrorReduce.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/ErrorInfoSink.java" />
+        <option value="$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/ErrorInfoAnaly.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-flink" />
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lorettaxflinkcommon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lorettaxflinkcommon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lorettaxflinkcommon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/artifacts/test_web.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="743" />
+    <option name="width" value="630" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkanalysrv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkanalysrv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkanalysrv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkanalysrv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkcommon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkcommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkcommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkcommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkcommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lorettaxflinkappanaly" type="462c0819:PsiDirectoryNode" />
+              <item name="lorettaxflinkcommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lorettaxflinkappanaly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lorettaxflinkcommon/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/lorettaxflinkanalysrv" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\18215\Desktop\GitHub\lorettaxflinkappanaly\lorettaxflinkcommon\src\main\java" />
+      <recent name="C:\Users\18215\Desktop\GitHub\lorettaxflinkappanaly\lorettaxMessageApi" />
+      <recent name="C:\Users\18215\Desktop\GitHub\lorettaxflinkappanaly" />
+      <recent name="C:\Users\18215\Desktop\GitHub\lorettaxflinkappanaly\lorettaxflinkanalySrv" />
+      <recent name="C:\Users\18215\Desktop\GitHub\lorettaxflinkappanaly\lorettaxflinkappin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lorettax.analy.sinks" />
+      <recent name="com.lorettax.analy.reduces" />
+      <recent name="com.lorettax.analy.maps" />
+      <recent name="com.lorettax.analy.Mockcommon" />
+      <recent name="com.lorettax.analy.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\18215\Desktop\GitHub\lorettaxflinkappanaly\lorettaxMessageApi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.53">
+    <configuration name="lorettaxflinkappin [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/lorettaxflinkappin" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 7.0.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" activateToolWindowBeforeRun="false" APPLICATION_SERVER_NAME="Tomcat 7.0.53" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="lorettaxflinkappin:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/lorettaxflinkappin_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_lorettaxflinkappanaly_2" />
+        <option name="HTTP_PORT" value="8080" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50825" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="50826" />
+        <option name="visualVMId" value="835540405357987" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lorettaxflinkappin:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.lorettaxflinkappin [install]" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.53" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.lorettaxflinkappin [install]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f8cda05-df42-4347-8763-8f5baf1ecde0" name="Default Changelist" comment="" />
+      <created>1572867660770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572867660770</updated>
+      <workItem from="1572867665392" duration="1039000" />
+      <workItem from="1573110365348" duration="657000" />
+      <workItem from="1573201962617" duration="694000" />
+      <workItem from="1573267782558" duration="2272000" />
+      <workItem from="1573270146471" duration="5615000" />
+      <workItem from="1573352252062" duration="10223000" />
+      <workItem from="1573636733502" duration="754000" />
+      <workItem from="1573641218222" duration="2457000" />
+      <workItem from="1573726508231" duration="3348000" />
+      <workItem from="1573729934083" duration="17337000" />
+      <workItem from="1574039682895" duration="30607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75003000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.3181818" />
+      <window_info id="Structure" order="1" sideWeight="0.50165015" side_tool="true" weight="0.325" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14405361" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.04950495" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="13" weight="0.6072607" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" sideWeight="0.49924242" weight="0.32838285" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.32998326" />
+      <window_info anchor="bottom" id="Application Servers" order="18" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="19" weight="0.34488449" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Coverage" order="1" sideWeight="0.5011236" side_tool="true" weight="0.11742424" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.4988764" weight="0.45685998" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="8" weight="0.32954547" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Alibaba Log Console" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" weight="0.9451554" />
+      <window_info id="Structure" order="1" sideWeight="0.50165015" side_tool="true" weight="0.325" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14405361" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.04950495" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="13" weight="0.6072607" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" sideWeight="0.49924242" weight="0.32838285" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.32998326" />
+      <window_info anchor="bottom" id="Application Servers" order="18" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="19" weight="0.34488449" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Coverage" order="1" sideWeight="0.5011236" side_tool="true" weight="0.11742424" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.4988764" weight="0.45685998" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="8" weight="0.32954547" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Alibaba Log Console" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lorettaxflinkappanaly$Tomcat_7_0_53.ic" NAME="Tomcat 7.0.53 Coverage Results" MODIFIED="1573356884588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/ChannelUserSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/VersionUserAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkcommon/src/main/java/com/lorettax/utils/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkcommon/src/main/java/com/lorettax/utils/AreabyipUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/test/DateTimeTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkcommon/src/main/java/com/lorettax/utils/DateTimeTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/UserFrequencyMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/UserFrequencyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/BrandUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/VersionUserSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/BrandSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/BrandAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/ChannelUserReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/BrandReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/BrandMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/task/KafkaEventSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/KafkaEventSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/KafkaEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/task/UserbehaviorAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/ActivitieUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/ChannelUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/NetworkUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/NewUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/Startup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/UsageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+          <folding>
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#1967#1968#0" expanded="true" />
+            <element signature="e#1997#1998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/UserFrequencyInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/VersionUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/UserbehaviorInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/VersionUserMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/map/UserbehaviorMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/UserbehaviorMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/UsageInfoReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/UserNetworkReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/VersionUserReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkcommon/src/main/java/com/youfan/analy/UserbehvaviorInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/UserBehaviorReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduce/UserBehaviorReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven-flink/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduce/UserBehaviorSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="59" column="64" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="59" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/UserbehaviorSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/UserbehaviorAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/StartupAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="50" column="5" selection-start-line="19" selection-start-column="59" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/Mockcommon/ErrorInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#1537#1538#0" expanded="true" />
+            <element signature="e#1585#1586#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+            <element signature="e#1649#1650#0" expanded="true" />
+            <element signature="e#1695#1696#0" expanded="true" />
+            <element signature="e#1733#1734#0" expanded="true" />
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1789#1790#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1859#1860#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="e#1921#1922#0" expanded="true" />
+            <element signature="e#1965#1966#0" expanded="true" />
+            <element signature="e#2001#2002#0" expanded="true" />
+            <element signature="e#2039#2040#0" expanded="true" />
+            <element signature="e#2073#2074#0" expanded="true" />
+            <element signature="e#2127#2128#0" expanded="true" />
+            <element signature="e#2173#2174#0" expanded="true" />
+            <element signature="e#2207#2208#0" expanded="true" />
+            <element signature="e#2237#2238#0" expanded="true" />
+            <element signature="e#2283#2284#0" expanded="true" />
+            <element signature="e#2321#2322#0" expanded="true" />
+            <element signature="e#2359#2360#0" expanded="true" />
+            <element signature="e#2393#2394#0" expanded="true" />
+            <element signature="e#2447#2448#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/task/ErrorInfoAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/maps/ErrorMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/StartupReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduce/ErrorInfoReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduces/ErrorReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/reduce/ErrorInfoSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="50" column="50" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/sinks/ErrorInfoSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorettaxflinkanalysrv/src/main/java/com/lorettax/analy/tasks/ErrorInfoAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="45" column="69" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>test_web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lorettaxflinkappanaly</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
